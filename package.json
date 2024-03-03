@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "heic-convert": "^2.1.0",
+    "jimp": "^0.22.12",
+    "pdf-lib": "^1.17.1"
+  }
+}
